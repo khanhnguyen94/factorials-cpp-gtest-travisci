@@ -1,5 +1,5 @@
 //main.cpp
-
+//Khanh Nguyen
 #include <iostream>
 #include "factorial.h"
 
